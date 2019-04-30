@@ -1,14 +1,14 @@
-name: maeve
+name: trello
 version: '0.1'
-summary: Desktop client for Maeve
+summary: unofficial Desktop client for Trello.
 description: |
-a PWA Apple Music web player with Last.fm support. 
+a way to better collaborate with team members. 
 
 confinement: strict
 grade: stable
 
 parts:
-  electron-app:
+  trello:
     plugin: nodejs
     source: app/
 
@@ -34,8 +34,8 @@ parts:
       - -node_modules
 
 apps:
-  maeve:
-    command: env TMPDIR=$XDG_RUNTIME_DIR desktop-launch $SNAP/app/maeve
+ trello:
+    command: env TMPDIR=$XDG_RUNTIME_DIR desktop-launch $SNAP/app/trello
     plugs:
       - home
       - x11
