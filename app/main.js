@@ -1,6 +1,6 @@
 const electron = require('electron');
 const { shell, app, BrowserWindow } = electron;
-const HOMEPAGE = 'https://maevemusic.app/'
+const HOMEPAGE = 'https://trello.com/login'
 
 let mainWindow;
 
