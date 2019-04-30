@@ -1,27 +1,27 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/56716180-891adf00-66ee-11e9-97b6-305bcddfdebc.png">
+  <img src="https://user-images.githubusercontent.com/45159366/56950945-6cfeaf80-6aeb-11e9-9698-eefbeb74d05e.png">
   <br />
-Maeve
+Trello Desk
 </h1>
 
-<p align="center"><b>This is the snap for Maeve, a PWA Apple Music web player with Last.fm support. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
+<p align="center"><b>This is the snap for Trello Desk, a PWA for Trello. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
 <a href="https://build.snapcraft.io/user/snapcrafters/fork-and-rename-me"><img src="https://build.snapcraft.io/badge/snapcrafters/fork-and-rename-me.svg" alt="Snap Status"></a>
 </p>
 -->
-
+<!--
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/56716182-89b37580-66ee-11e9-93ac-2d16432124b2.png">
+  <img src="">
   <br />
 </h1>
-
+-->
 <p align="center">Published for <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/tux.png" align="top" width="24" /> with 💝 by Snapcrafters</p>
 
 ## Install
 
-    sudo snap install maeve
+    sudo snap install trello-desk
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
