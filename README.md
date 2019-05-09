@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/45159366/56950945-6cfeaf80-6aeb-11e9-9698-eefbeb74d05e.png">
   <br />
-Trello Desk
+Drello
 </h1>
 
-<p align="center"><b>This is the snap for Trello Desk, a PWA for Trello. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
+<p align="center"><b>This is the snap for Drello, an unofficial desktop client for Trello. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
@@ -21,7 +21,7 @@ Trello Desk
 
 ## Install
 
-    sudo snap install trello-desk
+    sudo snap install drello
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
